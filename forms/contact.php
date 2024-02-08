@@ -20,7 +20,7 @@
   /*
   $contact->smtp = array(
     'host' => '',
-    'username' => 'example',
+    'username' => '',
     'password' => 'pass',
     'port' => '587'
   );

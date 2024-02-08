@@ -21,7 +21,7 @@
   $contact->smtp = array(
     'host' => '',
     'username' => '',
-    'password' => 'pass',
+    'password' => '',
     'port' => '587'
   );
   */

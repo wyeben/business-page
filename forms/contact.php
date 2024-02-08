@@ -22,7 +22,7 @@
     'host' => '',
     'username' => '',
     'password' => '',
-    'port' => '587'
+    'port' => ''
   );
   */
 

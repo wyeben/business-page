@@ -183,7 +183,7 @@
         e.preventDefault();
         portfolioFilters.forEach(function(el) {
           el.classList.remove('filter-active');
-          
+        
         });
         this.classList.add('filter-active');
 

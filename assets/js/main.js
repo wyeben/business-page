@@ -186,6 +186,7 @@
         });
         this.classList.add('filter-active');
         portfolioIsotope.arrange({
+          
           filter: this.getAttribute('data-filter')
         });
         portfolioIsotope.on('arrangeComplete', function() {
